@@ -1,6 +1,7 @@
 # 노래 해방 🎵
 
-![homePage](/uploads/82b358dc3a816ca1cf7360edab0021e2/homePage.png)
+![홈](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/4c7f53d5-0562-4d1b-bbaa-e1b6a260f5ff)
+
 
 <br />
 
@@ -83,7 +84,7 @@
 
 ## 링크
 
-[![logo1-removebg-preview](/uploads/62539bb6b1639ad6fda02617b81db772/logo1-removebg-preview.png)](https://i10a705.p.ssafy.io/)
+[![로고](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/be5cdcb9-8df8-44cd-b22c-2488c919449f)](https://i10a705.p.ssafy.io/)
 
 [![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/d3b9636405c8451499659f8d8b4ba876)
 
@@ -180,42 +181,42 @@
 
 <h3><< 노래방 만들기 >><h3>
 
-![방만들기](/uploads/252045b2c262008fcc819592730c5e4e/방만들기.gif)
+![방만들기](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/d1f70254-bbd2-4563-bd52-2fd0b798129e)
 
 <br />
 <br />
 
 <h3><< 노래방 입력설정 >><h3>
 
-![입력설정](/uploads/75ab66006646f525ceea73307cf24d16/입력설정.gif)
+![입력설정](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/03c9d583-75a5-4e78-90a3-bdbe486818f0)
 
 <br />
 <br />
 
 <h3><< 노래방 노래예약 >><h3>
 
-![노래_예약](/uploads/31e1368a53bc5683af3ff418a26a30e7/노래_예약.gif)
+![노래 예약](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/fa27becc-07d7-4d6b-b236-f00af04a7767)
 
 <br />
 <br />
 
 <h3><< 노래방 채팅 >><h3>
 
-![노래방_채팅_기능](/uploads/16d184a9c4001a7a4ac4c1ac74b7d336/노래방_채팅_기능.gif)
+![노래방 채팅 기능](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/3d72b292-bd43-46d0-aa5f-048554fe404f)
 
 <br />
 <br />
 
 <h3><< 노래방 일반 모드 >><h3>
 
-![전체_노래방](/uploads/66185a3047b5624351a02682cf6db95a/전체_노래방.gif)
+![전체 노래방](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/08b28a73-a615-4179-a96c-fce01322d26e)
 
 <br />
 <br />
 
 <h3><< 노래방 퍼펙트 스코어 >><h3>
 
-<img src="/uploads/c4848e29b911cff24a9dc0d92759c570/perfect-score.png" width="800" height="400">
+<img src="https://github.com/madirony/WebRTC_Karaoke/assets/48685874/0fa4243b-267f-44b0-94f9-06094acba20e" width="800" height="400">
 
 <br />
 <br />
@@ -224,21 +225,21 @@
 
 <h3><< 피드리스트 및 피드 상세 >><h3>
 
-![피드_기능](/uploads/03378246ff12bb438886ef40d4c854af/피드_기능.gif)
+![피드 기능](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/32d5e3a3-8c26-48c0-833f-faf59339c3a4)
+
 <br />
 <br />
 
 <h3><< 피드 업로드 >><h3>
 
-![피드_업로드](/uploads/31d8ac38fa55abcbd461db9eadfafc56/피드_업로드.gif)
-
+![피드 업로드](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/90510ccf-167b-4555-a904-3fe6f2bf4c74)
 
 <br />
 <br />
 
 <h3><< 채팅 >><h3>
 
-![채팅_기능](/uploads/c07fac176fabeb2fe6fc3ef930604902/채팅_기능.gif)
+![채팅 기능2](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/27c24c60-7f16-487a-bbf3-5d06e772bc38)
 
 <br />
 <br />
@@ -246,14 +247,14 @@
 
 <h3><< 친구 목록 >><h3>
 
-![친구목록](/uploads/02e693754b4e9f5218e64a01ecac9333/친구목록.gif)
+![친구목록](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/2c34dcd5-acc7-4f1d-ab81-721ea90d3457)
 
 <br />
 <br />
 
 # 아키넥처 구성도
 
-![a705.drawio](/uploads/2f07ef3d0808a1239f11647ffaeb4f9a/a705.drawio.png)
+![image](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/1195e6f5-6cf4-402b-95a1-7390f8f1bec5)
 
 <br />
 
