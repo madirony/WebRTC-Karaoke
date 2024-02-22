@@ -71,7 +71,7 @@
             <a href="#%eb%85%b8%eb%9e%98-%eb%8d%b0%ec%9d%b4%ed%84%b0">노래 데이터</a>
         </td>
         <td align="center">
-            <a href="#-dm%uCC44%uD305-">DM</a>
+            <a href="#-dm채팅-">DM</a>
         </td>
         <td align="center">
           <a href= '#%ec%95%8c%eb%a6%bc%ea%b8%b0%eb%8a%a5-with-sseserver-side-events'>알림기능(SSE)</a>
