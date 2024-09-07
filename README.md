@@ -21,32 +21,32 @@
         <td align="center" width="150px">
             <a href="https://github.com/louis-cho"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/38391852?v=4"/></a>
             <br />
-            <a href="https://github.com/louis-cho">조현우</a>
+            <a href="https://github.com/louis-cho">louis-cho</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/gardengo"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48192100?v=4"/></a>
             <br />
-            <a href="https://github.com/gardengo">고정원</a>
+            <a href="https://github.com/gardengo">gardengo</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/seroh00"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/139421118?v=4"/></a>
             <br />
-            <a href="https://github.com/seroh00">노성은</a>
+            <a href="https://github.com/seroh00">seroh00</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/jsong98"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/79959903?v=4"/></a>
             <br />
-            <a href="https://github.com/jsong98">송준석</a>
+            <a href="https://github.com/jsong98">jsong98</a>
         </td>
         <td align="center" width="150px">
             <a href="https://github.com/madirony"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/48685874?v=4"/></a>
             <br />
-            <a href="https://github.com/madirony">연정흠</a>
+            <a href="https://github.com/madirony">madirony</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/bum19"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/77481223?v=4"/></a>
             <br />
-            <a href="https://github.com/bum19">이준범</a>
+            <a href="https://github.com/bum19">bum19</a>
         </td>
       <tr height="50px">
         <td align="center">    
