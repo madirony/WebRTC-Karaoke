@@ -259,7 +259,7 @@
 <br />
 <br />
 
-# 아키넥처 구성도
+# 아키텍처 구성도
 
 ![image](https://github.com/madirony/WebRTC_Karaoke/assets/48685874/1195e6f5-6cf4-402b-95a1-7390f8f1bec5)
 
